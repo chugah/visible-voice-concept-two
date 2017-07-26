@@ -96,7 +96,7 @@ audio {
 .cell {    
     background: transparent;  
     margin-top: 1rem !important;
-    z-index: 10000;
+    z-index: 10;
 }
 
 a {
